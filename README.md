@@ -1,6 +1,6 @@
 # Neural Network Charity Analysis
 ## Overview of the analysis
-Alphabet Soup is a non-profit philanthropic organization which has raised and donated over $10b in the past twenty years. Alphabet Soup analyzes the impact of each donation and vets potential recipients to ensure that the foundation's money is used effectively, and is interested in using machine learning to assist in the vetting process. The purpose of this analysis was to use machine learning and neural networks to develop a binary classifier capable of predicting whether applicants will be successful if funded by Alphabet Soup.
+Alphabet Soup is a non-profit philanthropic organization which has raised and donated over $10b in the past twenty years. Alphabet Soup analyzes the impact of each donation and vets potential recipients to ensure that the foundation's money is used effectively, and is interested in using machine learning to assist in the vetting process. The purpose of this analysis was to use machine learning and neural networks to develop a binary classifier capable of predicting whether applicants will be successful if funded by Alphabet Soup. Analysis was completed using deep-learning neural networks with the TensorFlow library in Python.
 
 To complete this assessment, the following steps were performed:
 - Preprocessing the data for a neural network model
